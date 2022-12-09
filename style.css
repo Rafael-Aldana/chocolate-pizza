@@ -15,7 +15,23 @@ header div {
   align-items: center;
 }
 
-#hr {
+.hr {
   background: url(img/hr-img.png) repeat;
   height: 10px;
+}
+
+#recipe {
+  display: flex;
+  justify-content: space-around;
+  background: url(img/list-bg.png);
+}
+
+#title {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+
+#print-button {
+  align-self: flex-end;
 }
