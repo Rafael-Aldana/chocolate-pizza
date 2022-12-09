@@ -1,6 +1,21 @@
-header {
+body {
+  width: 90%;
+  margin: auto;
+}
+
+header div {
   display: flex;
   align-items: center;
   justify-content: space-between;
 
+}
+
+#icon {
+  display: flex;
+  align-items: center;
+}
+
+#hr {
+  background: url(img/hr-img.png) repeat;
+  height: 10px;
 }
