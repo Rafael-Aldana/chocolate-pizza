@@ -2,6 +2,8 @@
 
 Code Fellows 201 Lab 10a
 
+Your boss comes up to you just before lunch: “OK, we just picked up this job, but I need it on my desk (well, in my inbox) in four hours. It doesn’t need to be perfect… it needs to be as close to perfect as you can get it in that time.”
+
 ## Author:Joe Davitt, Dennis Palucki, & Rafael Aldana
 
 ### Links and Resources:
