@@ -17,3 +17,4 @@ Your boss comes up to you just before lunch: “OK, we just picked up this job, 
 - Consider including the answers to your daily journal and submission questions here.
 
 - This is also a good place to reflect on the tools and resources used and learned
+
